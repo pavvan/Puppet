@@ -1,1 +1,2 @@
-Learn Puppet New
+Learn Puppet New - First Commit
+Second Commit
